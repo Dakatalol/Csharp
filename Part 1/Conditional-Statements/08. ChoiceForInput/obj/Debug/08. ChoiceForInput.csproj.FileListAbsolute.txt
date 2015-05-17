@@ -1,0 +1,6 @@
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\08. ChoiceForInput\bin\Debug\_08.ChoiceForInput.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\08. ChoiceForInput\bin\Debug\_08.ChoiceForInput.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\08. ChoiceForInput\bin\Debug\_08.ChoiceForInput.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\08. ChoiceForInput\obj\Debug\08. ChoiceForInput.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\08. ChoiceForInput\obj\Debug\_08.ChoiceForInput.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\08. ChoiceForInput\obj\Debug\_08.ChoiceForInput.pdb

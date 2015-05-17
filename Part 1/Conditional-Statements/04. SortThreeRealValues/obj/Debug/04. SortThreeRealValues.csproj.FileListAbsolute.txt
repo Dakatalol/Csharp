@@ -1,0 +1,12 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\04. SortThreeRealValues\bin\Debug\_04.SortThreeRealValues.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\04. SortThreeRealValues\obj\Debug\04. SortThreeRealValues.csprojResolveAssemblyReference.cache
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\04. SortThreeRealValues\bin\Debug\_04.SortThreeRealValues.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\04. SortThreeRealValues\bin\Debug\_04.SortThreeRealValues.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\04. SortThreeRealValues\obj\Debug\_04.SortThreeRealValues.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\04. SortThreeRealValues\obj\Debug\_04.SortThreeRealValues.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\04. SortThreeRealValues\bin\Debug\_04.SortThreeRealValues.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\04. SortThreeRealValues\obj\Debug\_04.SortThreeRealValues.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\04. SortThreeRealValues\obj\Debug\_04.SortThreeRealValues.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\04. SortThreeRealValues\bin\Debug\_04.SortThreeRealValues.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\04. SortThreeRealValues\bin\Debug\_04.SortThreeRealValues.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\04. SortThreeRealValues\obj\Debug\04. SortThreeRealValues.csprojResolveAssemblyReference.cache

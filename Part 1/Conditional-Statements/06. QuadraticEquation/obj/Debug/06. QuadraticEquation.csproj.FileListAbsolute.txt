@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

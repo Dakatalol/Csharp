@@ -1,0 +1,6 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\bin\Debug\GreaterNumberOfTwoInts.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\bin\Debug\GreaterNumberOfTwoInts.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\bin\Debug\GreaterNumberOfTwoInts.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\obj\Debug\GreaterNumberOfTwoInts.csprojResolveAssemblyReference.cache
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\obj\Debug\GreaterNumberOfTwoInts.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\obj\Debug\GreaterNumberOfTwoInts.pdb

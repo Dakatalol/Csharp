@@ -1,0 +1,9 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\03. TheBiggestNumberOfThreeInts\bin\Debug\_03.TheBiggestNumberOfThreeInts.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\03. TheBiggestNumberOfThreeInts\bin\Debug\_03.TheBiggestNumberOfThreeInts.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\03. TheBiggestNumberOfThreeInts\bin\Debug\_03.TheBiggestNumberOfThreeInts.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\03. TheBiggestNumberOfThreeInts\obj\Debug\03. TheBiggestNumberOfThreeInts.csprojResolveAssemblyReference.cache
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\03. TheBiggestNumberOfThreeInts\obj\Debug\_03.TheBiggestNumberOfThreeInts.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\03. TheBiggestNumberOfThreeInts\obj\Debug\_03.TheBiggestNumberOfThreeInts.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\03. TheBiggestNumberOfThreeInts\bin\Debug\_03.TheBiggestNumberOfThreeInts.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\03. TheBiggestNumberOfThreeInts\obj\Debug\_03.TheBiggestNumberOfThreeInts.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\03. TheBiggestNumberOfThreeInts\obj\Debug\_03.TheBiggestNumberOfThreeInts.pdb

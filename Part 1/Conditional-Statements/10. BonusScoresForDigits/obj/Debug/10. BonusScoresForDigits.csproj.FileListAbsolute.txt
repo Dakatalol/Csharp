@@ -1,0 +1,6 @@
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\10. BonusScoresForDigits\bin\Debug\_10.BonusScoresForDigits.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\10. BonusScoresForDigits\bin\Debug\_10.BonusScoresForDigits.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\10. BonusScoresForDigits\bin\Debug\_10.BonusScoresForDigits.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\10. BonusScoresForDigits\obj\Debug\10. BonusScoresForDigits.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\10. BonusScoresForDigits\obj\Debug\_10.BonusScoresForDigits.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\10. BonusScoresForDigits\obj\Debug\_10.BonusScoresForDigits.pdb

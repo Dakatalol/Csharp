@@ -1,0 +1,6 @@
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\05. NameOfDigits\bin\Debug\_05.NameOfDigits.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\05. NameOfDigits\bin\Debug\_05.NameOfDigits.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\05. NameOfDigits\bin\Debug\_05.NameOfDigits.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\05. NameOfDigits\obj\Debug\05. NameOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\05. NameOfDigits\obj\Debug\_05.NameOfDigits.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\05. NameOfDigits\obj\Debug\_05.NameOfDigits.pdb

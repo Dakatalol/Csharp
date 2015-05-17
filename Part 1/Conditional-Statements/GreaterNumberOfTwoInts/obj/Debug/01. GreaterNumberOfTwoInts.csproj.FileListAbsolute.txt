@@ -1,0 +1,6 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\bin\Debug\GreaterNumberOfTwoInts.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\obj\Debug\GreaterNumberOfTwoInts.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\Lecture 5\GreaterNumberOfTwoInts\obj\Debug\GreaterNumberOfTwoInts.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\GreaterNumberOfTwoInts\bin\Debug\GreaterNumberOfTwoInts.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\GreaterNumberOfTwoInts\obj\Debug\GreaterNumberOfTwoInts.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\GreaterNumberOfTwoInts\obj\Debug\GreaterNumberOfTwoInts.pdb

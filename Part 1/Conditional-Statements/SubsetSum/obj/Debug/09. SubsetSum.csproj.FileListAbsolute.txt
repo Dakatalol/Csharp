@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\SubsetSum\bin\Debug\SubsetSum.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\SubsetSum\bin\Debug\SubsetSum.pdb
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Jordan\Desktop\Lecture 5\Lecture 5\SubsetSum\obj\Debug\SubsetSum.pdb
