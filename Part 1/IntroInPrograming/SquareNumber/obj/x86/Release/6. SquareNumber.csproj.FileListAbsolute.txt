@@ -1,0 +1,2 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SquareNumber\obj\x86\Release\SquareNumber.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SquareNumber\obj\x86\Release\SquareNumber.pdb

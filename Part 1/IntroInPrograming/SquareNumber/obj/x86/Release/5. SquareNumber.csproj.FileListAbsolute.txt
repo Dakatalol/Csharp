@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SquareNumber\bin\Release\SquareNumber.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SquareNumber\bin\Release\SquareNumber.pdb
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SquareNumber\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SquareNumber\obj\x86\Release\SquareNumber.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SquareNumber\obj\x86\Release\SquareNumber.pdb

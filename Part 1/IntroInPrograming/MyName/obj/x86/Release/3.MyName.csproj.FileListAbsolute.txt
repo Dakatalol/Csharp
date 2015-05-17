@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyName\bin\Release\MyName.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyName\bin\Release\MyName.pdb
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyName\obj\x86\Release\MyName.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyName\obj\x86\Release\MyName.pdb

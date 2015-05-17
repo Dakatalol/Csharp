@@ -1,0 +1,2 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyName\obj\x86\Release\MyName.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyName\obj\x86\Release\MyName.pdb

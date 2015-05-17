@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\RandomNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\RandomNumbers\bin\Release\RandomNumbers.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\RandomNumbers\bin\Release\RandomNumbers.pdb
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\RandomNumbers\obj\x86\Release\RandomNumbers.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\RandomNumbers\obj\x86\Release\RandomNumbers.pdb

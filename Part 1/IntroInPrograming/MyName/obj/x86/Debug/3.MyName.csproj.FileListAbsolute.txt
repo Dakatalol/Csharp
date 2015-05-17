@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyName\bin\Debug\MyName.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyName\bin\Debug\MyName.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyName\obj\x86\Debug\MyName.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyName\obj\x86\Debug\MyName.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\CurrentDateTime\bin\Release\CurrentDateTime.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\CurrentDateTime\bin\Release\CurrentDateTime.pdb
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\CurrentDateTime\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\CurrentDateTime\obj\x86\Release\CurrentDateTime.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\CurrentDateTime\obj\x86\Release\CurrentDateTime.pdb

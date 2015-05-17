@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyFirstWriteline\bin\Debug\MyFirstWriteline.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyFirstWriteline\bin\Debug\MyFirstWriteline.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyFirstWriteline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyFirstWriteline\obj\x86\Debug\MyFirstWriteline.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\IntroInPrograming\MyFirstWriteline\obj\x86\Debug\MyFirstWriteline.pdb
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyFirstWriteline\obj\x86\Debug\MyFirstWriteline.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyFirstWriteline\obj\x86\Debug\MyFirstWriteline.pdb

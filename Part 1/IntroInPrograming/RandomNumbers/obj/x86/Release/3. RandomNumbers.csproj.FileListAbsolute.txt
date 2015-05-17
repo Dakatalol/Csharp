@@ -1,0 +1,2 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\RandomNumbers\obj\x86\Release\RandomNumbers.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\RandomNumbers\obj\x86\Release\RandomNumbers.pdb

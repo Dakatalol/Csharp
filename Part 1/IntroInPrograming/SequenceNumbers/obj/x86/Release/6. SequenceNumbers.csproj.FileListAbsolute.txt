@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SequenceNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SequenceNumbers\bin\Release\SequenceNumbers.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SequenceNumbers\bin\Release\SequenceNumbers.pdb
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SequenceNumbers\obj\x86\Release\SequenceNumbers.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\SequenceNumbers\obj\x86\Release\SequenceNumbers.pdb

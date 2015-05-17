@@ -1,0 +1,5 @@
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyFirstWriteline\bin\Release\MyFirstWriteline.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyFirstWriteline\bin\Release\MyFirstWriteline.pdb
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyFirstWriteline\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyFirstWriteline\obj\x86\Release\MyFirstWriteline.exe
+C:\Users\Jordan\Desktop\IntroInPrograming\IntroInPrograming\MyFirstWriteline\obj\x86\Release\MyFirstWriteline.pdb
