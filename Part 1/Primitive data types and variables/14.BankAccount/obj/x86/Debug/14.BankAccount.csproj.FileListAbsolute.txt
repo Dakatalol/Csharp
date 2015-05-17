@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\14.BankAccount\obj\x86\Debug\14.BankAccount.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\14.BankAccount\obj\x86\Debug\14.BankAccount.pdb

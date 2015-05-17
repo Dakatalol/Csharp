@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\12.AsciiTable\bin\Debug\12.AsciiTable.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\12.AsciiTable\bin\Debug\12.AsciiTable.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\12.AsciiTable\obj\x86\Debug\12.AsciiTable.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\12.AsciiTable\obj\x86\Debug\12.AsciiTable.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\12.AsciiTable\obj\x86\Debug\12.AsciiTable.csprojResolveAssemblyReference.cache

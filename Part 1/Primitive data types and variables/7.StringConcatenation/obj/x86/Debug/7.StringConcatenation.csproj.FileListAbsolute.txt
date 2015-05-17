@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\7.StringConcatenation\bin\Debug\7.StringConcatenation.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\7.StringConcatenation\bin\Debug\7.StringConcatenation.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\7.StringConcatenation\obj\x86\Debug\7.StringConcatenation.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\7.StringConcatenation\obj\x86\Debug\7.StringConcatenation.pdb

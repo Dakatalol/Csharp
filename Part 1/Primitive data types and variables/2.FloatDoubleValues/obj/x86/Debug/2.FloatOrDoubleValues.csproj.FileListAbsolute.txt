@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\2.FloatDoubleValues\bin\Debug\2.FloatDoubleValues.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\2.FloatDoubleValues\bin\Debug\2.FloatDoubleValues.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\2.FloatDoubleValues\obj\x86\Debug\2.FloatDoubleValues.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\2.FloatDoubleValues\obj\x86\Debug\2.FloatDoubleValues.pdb

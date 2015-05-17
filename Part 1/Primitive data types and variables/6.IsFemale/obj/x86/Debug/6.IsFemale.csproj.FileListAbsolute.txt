@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\6.IsFemale\bin\Debug\6.IsFemale.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\6.IsFemale\bin\Debug\6.IsFemale.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\6.IsFemale\obj\x86\Debug\6.IsFemale.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\6.IsFemale\obj\x86\Debug\6.IsFemale.pdb

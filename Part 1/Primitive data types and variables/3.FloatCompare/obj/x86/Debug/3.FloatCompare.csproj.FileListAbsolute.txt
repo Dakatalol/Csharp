@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\3.FloatCompare\bin\Debug\3.FloatCompare.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\3.FloatCompare\bin\Debug\3.FloatCompare.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\3.FloatCompare\obj\x86\Debug\3.FloatCompare.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\3.FloatCompare\obj\x86\Debug\3.FloatCompare.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\3.FloatCompare\obj\x86\Debug\3.FloatCompare.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\5.CharUnicode\bin\Debug\5.CharUnicode.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\5.CharUnicode\bin\Debug\5.CharUnicode.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\5.CharUnicode\obj\x86\Debug\5.CharUnicode.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\5.CharUnicode\obj\x86\Debug\5.CharUnicode.pdb

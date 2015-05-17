@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\1.DeclaredVariables\bin\Debug\1.DeclaredVariables.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\1.DeclaredVariables\bin\Debug\1.DeclaredVariables.pdb
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\1.DeclaredVariables\obj\x86\Debug\1.DeclaredVariables.exe
+C:\Users\Admin\Desktop\telerik\2.PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\1.DeclaredVariables\obj\x86\Debug\1.DeclaredVariables.pdb
