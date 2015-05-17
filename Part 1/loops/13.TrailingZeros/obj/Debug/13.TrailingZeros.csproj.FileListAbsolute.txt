@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\homework\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.exe
+C:\Users\Admin\Desktop\homework\6.Loops\13.TrailingZeros\bin\Debug\13.TrailingZeros.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\homework\6.Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.exe
+C:\Users\Admin\Desktop\homework\6.Loops\13.TrailingZeros\obj\Debug\13.TrailingZeros.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\homework\6.Loops\12.Matrix\bin\Debug\12.Matrix.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\12.Matrix\bin\Debug\12.Matrix.exe
+C:\Users\Admin\Desktop\homework\6.Loops\12.Matrix\bin\Debug\12.Matrix.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\12.Matrix\obj\Debug\12.Matrix.exe
+C:\Users\Admin\Desktop\homework\6.Loops\12.Matrix\obj\Debug\12.Matrix.pdb

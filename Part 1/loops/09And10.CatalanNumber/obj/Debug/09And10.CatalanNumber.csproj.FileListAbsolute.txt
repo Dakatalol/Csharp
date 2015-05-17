@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\homework\6.Loops\09And10.CatalanNumber\bin\Debug\09And10.CatalanNumber.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\09And10.CatalanNumber\bin\Debug\09And10.CatalanNumber.exe
+C:\Users\Admin\Desktop\homework\6.Loops\09And10.CatalanNumber\bin\Debug\09And10.CatalanNumber.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\09And10.CatalanNumber\obj\Debug\09And10.CatalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\homework\6.Loops\09And10.CatalanNumber\obj\Debug\09And10.CatalanNumber.exe
+C:\Users\Admin\Desktop\homework\6.Loops\09And10.CatalanNumber\obj\Debug\09And10.CatalanNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\homework\6.Loops\03.MaxAndMin\bin\Debug\03.MaxAndMin.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\03.MaxAndMin\bin\Debug\03.MaxAndMin.exe
+C:\Users\Admin\Desktop\homework\6.Loops\03.MaxAndMin\bin\Debug\03.MaxAndMin.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\03.MaxAndMin\obj\Debug\03.MaxAndMin.exe
+C:\Users\Admin\Desktop\homework\6.Loops\03.MaxAndMin\obj\Debug\03.MaxAndMin.pdb

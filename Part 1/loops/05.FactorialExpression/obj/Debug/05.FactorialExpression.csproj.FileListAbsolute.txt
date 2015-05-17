@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\homework\6.Loops\05.FactorialExpression\bin\Debug\05.FactorialExpression.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\05.FactorialExpression\bin\Debug\05.FactorialExpression.exe
+C:\Users\Admin\Desktop\homework\6.Loops\05.FactorialExpression\bin\Debug\05.FactorialExpression.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\05.FactorialExpression\obj\Debug\05.FactorialExpression.exe
+C:\Users\Admin\Desktop\homework\6.Loops\05.FactorialExpression\obj\Debug\05.FactorialExpression.pdb

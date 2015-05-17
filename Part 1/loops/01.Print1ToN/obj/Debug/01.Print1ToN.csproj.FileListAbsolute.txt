@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\homework\6.Loops\01.Print1ToN\bin\Debug\01.Print1ToN.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\01.Print1ToN\bin\Debug\01.Print1ToN.exe
+C:\Users\Admin\Desktop\homework\6.Loops\01.Print1ToN\bin\Debug\01.Print1ToN.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\01.Print1ToN\obj\Debug\01.Print1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\homework\6.Loops\01.Print1ToN\obj\Debug\01.Print1ToN.exe
+C:\Users\Admin\Desktop\homework\6.Loops\01.Print1ToN\obj\Debug\01.Print1ToN.pdb

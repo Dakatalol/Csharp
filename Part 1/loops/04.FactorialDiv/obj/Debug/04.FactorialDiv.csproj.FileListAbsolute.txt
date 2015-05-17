@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\homework\6.Loops\04.FactorialDiv\bin\Debug\04.FactorialDiv.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\04.FactorialDiv\bin\Debug\04.FactorialDiv.exe
+C:\Users\Admin\Desktop\homework\6.Loops\04.FactorialDiv\bin\Debug\04.FactorialDiv.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\04.FactorialDiv\obj\Debug\04.FactorialDiv.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\homework\6.Loops\04.FactorialDiv\obj\Debug\04.FactorialDiv.exe
+C:\Users\Admin\Desktop\homework\6.Loops\04.FactorialDiv\obj\Debug\04.FactorialDiv.pdb

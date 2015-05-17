@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\homework\6.Loops\06.SAndXSum\bin\Debug\06.SAndXSum.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\06.SAndXSum\bin\Debug\06.SAndXSum.exe
+C:\Users\Admin\Desktop\homework\6.Loops\06.SAndXSum\bin\Debug\06.SAndXSum.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\06.SAndXSum\obj\Debug\06.SAndXSum.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\homework\6.Loops\06.SAndXSum\obj\Debug\06.SAndXSum.exe
+C:\Users\Admin\Desktop\homework\6.Loops\06.SAndXSum\obj\Debug\06.SAndXSum.pdb

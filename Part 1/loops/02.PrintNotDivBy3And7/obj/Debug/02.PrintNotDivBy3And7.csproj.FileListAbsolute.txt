@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\homework\6.Loops\02.PrintNotDivBy3And7\bin\Debug\02.PrintNotDivBy3And7.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\02.PrintNotDivBy3And7\bin\Debug\02.PrintNotDivBy3And7.exe
+C:\Users\Admin\Desktop\homework\6.Loops\02.PrintNotDivBy3And7\bin\Debug\02.PrintNotDivBy3And7.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\02.PrintNotDivBy3And7\obj\Debug\02.PrintNotDivBy3And7.exe
+C:\Users\Admin\Desktop\homework\6.Loops\02.PrintNotDivBy3And7\obj\Debug\02.PrintNotDivBy3And7.pdb

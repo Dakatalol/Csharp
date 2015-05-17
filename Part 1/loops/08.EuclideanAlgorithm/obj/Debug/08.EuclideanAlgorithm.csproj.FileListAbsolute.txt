@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\homework\6.Loops\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.exe
+C:\Users\Admin\Desktop\homework\6.Loops\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.exe
+C:\Users\Admin\Desktop\homework\6.Loops\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.pdb

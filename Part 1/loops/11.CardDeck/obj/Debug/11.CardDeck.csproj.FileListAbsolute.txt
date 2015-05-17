@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\homework\6.Loops\11.CardDeck\bin\Debug\11.CardDeck.exe.config
+C:\Users\Admin\Desktop\homework\6.Loops\11.CardDeck\bin\Debug\11.CardDeck.exe
+C:\Users\Admin\Desktop\homework\6.Loops\11.CardDeck\bin\Debug\11.CardDeck.pdb
+C:\Users\Admin\Desktop\homework\6.Loops\11.CardDeck\obj\Debug\11.CardDeck.exe
+C:\Users\Admin\Desktop\homework\6.Loops\11.CardDeck\obj\Debug\11.CardDeck.pdb
