@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdDigitInNumber\bin\Debug\ThirdDigitInNumber.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdDigitInNumber\bin\Debug\ThirdDigitInNumber.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdDigitInNumber\bin\Debug\ThirdDigitInNumber.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdDigitInNumber\obj\Debug\ThirdDigitInNumber.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdDigitInNumber\obj\Debug\ThirdDigitInNumber.pdb

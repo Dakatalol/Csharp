@@ -1,0 +1,1 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ValueOfGivenBitNumber\bin\Debug\ValueOfGivenBitNumber.exe.config

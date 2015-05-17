@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\12 BitChange\bin\Debug\12 BitChange.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\12 BitChange\bin\Debug\12 BitChange.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\12 BitChange\bin\Debug\12 BitChange.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\12 BitChange\obj\Debug\12 BitChange.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\12 BitChange\obj\Debug\12 BitChange.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateTrapezoidArea\bin\Debug\CalculateTrapezoidArea.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateTrapezoidArea\bin\Debug\CalculateTrapezoidArea.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateTrapezoidArea\bin\Debug\CalculateTrapezoidArea.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateTrapezoidArea\obj\Debug\CalculateTrapezoidArea.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateTrapezoidArea\obj\Debug\CalculateTrapezoidArea.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\06 CheckForPointInCircle\bin\Debug\06 CheckForPointInCircle.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\06 CheckForPointInCircle\bin\Debug\06 CheckForPointInCircle.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\06 CheckForPointInCircle\bin\Debug\06 CheckForPointInCircle.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\06 CheckForPointInCircle\obj\Debug\06 CheckForPointInCircle.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\06 CheckForPointInCircle\obj\Debug\06 CheckForPointInCircle.pdb

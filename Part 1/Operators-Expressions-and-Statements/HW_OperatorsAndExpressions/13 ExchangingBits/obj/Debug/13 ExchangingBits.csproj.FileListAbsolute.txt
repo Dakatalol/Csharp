@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\13 ExchangingBits\bin\Debug\13 ExchangingBits.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\13 ExchangingBits\bin\Debug\13 ExchangingBits.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\13 ExchangingBits\bin\Debug\13 ExchangingBits.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\13 ExchangingBits\obj\Debug\13 ExchangingBits.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\13 ExchangingBits\obj\Debug\13 ExchangingBits.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\13 ExchangingBits\obj\Debug\13 ExchangingBits.pdb

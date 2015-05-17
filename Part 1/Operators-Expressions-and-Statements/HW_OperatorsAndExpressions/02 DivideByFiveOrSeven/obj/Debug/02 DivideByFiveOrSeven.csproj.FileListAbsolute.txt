@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\02 DivideByFiveOrSeven\bin\Debug\02 DivideByFiveOrSeven.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\02 DivideByFiveOrSeven\bin\Debug\02 DivideByFiveOrSeven.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\02 DivideByFiveOrSeven\bin\Debug\02 DivideByFiveOrSeven.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\02 DivideByFiveOrSeven\obj\Debug\02 DivideByFiveOrSeven.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\02 DivideByFiveOrSeven\obj\Debug\02 DivideByFiveOrSeven.pdb

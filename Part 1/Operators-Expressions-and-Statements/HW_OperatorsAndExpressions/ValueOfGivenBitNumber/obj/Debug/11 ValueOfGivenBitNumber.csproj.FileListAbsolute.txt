@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ValueOfGivenBitNumber\bin\Debug\ValueOfGivenBitNumber.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ValueOfGivenBitNumber\bin\Debug\ValueOfGivenBitNumber.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ValueOfGivenBitNumber\bin\Debug\ValueOfGivenBitNumber.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ValueOfGivenBitNumber\obj\Debug\ValueOfGivenBitNumber.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ValueOfGivenBitNumber\obj\Debug\ValueOfGivenBitNumber.pdb

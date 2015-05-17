@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ReturnBit\bin\Debug\ReturnBit.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ReturnBit\bin\Debug\ReturnBit.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ReturnBit\bin\Debug\ReturnBit.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ReturnBit\obj\Debug\10 ReturnBit.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ReturnBit\obj\Debug\ReturnBit.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ReturnBit\obj\Debug\ReturnBit.pdb

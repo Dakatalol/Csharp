@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\PrimeNumber\obj\Debug\PrimeNumber.pdb

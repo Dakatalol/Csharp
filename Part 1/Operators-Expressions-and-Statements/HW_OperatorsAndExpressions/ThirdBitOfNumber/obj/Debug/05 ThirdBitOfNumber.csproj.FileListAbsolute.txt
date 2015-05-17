@@ -1,0 +1,3 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdBitOfNumber\bin\Debug\ThirdBitOfNumber.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdBitOfNumber\obj\Debug\ThirdBitOfNumber.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\ThirdBitOfNumber\obj\Debug\ThirdBitOfNumber.pdb

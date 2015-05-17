@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\09 PointOutOfRectangleAndWithinCircle\bin\Debug\09 PointOutOfRectangleAndWithinCircle.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\09 PointOutOfRectangleAndWithinCircle\bin\Debug\09 PointOutOfRectangleAndWithinCircle.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\09 PointOutOfRectangleAndWithinCircle\bin\Debug\09 PointOutOfRectangleAndWithinCircle.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\09 PointOutOfRectangleAndWithinCircle\obj\Debug\09 PointOutOfRectangleAndWithinCircle.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\09 PointOutOfRectangleAndWithinCircle\obj\Debug\09 PointOutOfRectangleAndWithinCircle.pdb

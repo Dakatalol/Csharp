@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.pdb
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.exe
+C:\Users\Jordan\Documents\Visual Studio 2012\Projects\HW_OperatorsAndExpressions\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.pdb
