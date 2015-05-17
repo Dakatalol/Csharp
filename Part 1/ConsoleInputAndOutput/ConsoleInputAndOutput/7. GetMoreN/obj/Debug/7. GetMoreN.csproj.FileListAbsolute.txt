@@ -1,0 +1,5 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\7. GetMoreN\bin\Debug\_7.GetMoreN.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\7. GetMoreN\bin\Debug\_7.GetMoreN.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\7. GetMoreN\bin\Debug\_7.GetMoreN.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\7. GetMoreN\obj\Debug\_7.GetMoreN.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\7. GetMoreN\obj\Debug\_7.GetMoreN.pdb

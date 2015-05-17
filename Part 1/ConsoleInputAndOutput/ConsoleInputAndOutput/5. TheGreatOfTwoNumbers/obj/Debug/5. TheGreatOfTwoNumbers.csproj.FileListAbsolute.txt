@@ -1,0 +1,5 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\5. TheGreatOfTwoNumbers\bin\Debug\_5.TheGreatOfTwoNumbers.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\5. TheGreatOfTwoNumbers\bin\Debug\_5.TheGreatOfTwoNumbers.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\5. TheGreatOfTwoNumbers\bin\Debug\_5.TheGreatOfTwoNumbers.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\5. TheGreatOfTwoNumbers\obj\Debug\_5.TheGreatOfTwoNumbers.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\5. TheGreatOfTwoNumbers\obj\Debug\_5.TheGreatOfTwoNumbers.pdb

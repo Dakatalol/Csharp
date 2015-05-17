@@ -1,0 +1,6 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\6. FindRootsOfAQuadricEquation\bin\Debug\_6.FindRootsOfAQuadricEquation.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\6. FindRootsOfAQuadricEquation\bin\Debug\_6.FindRootsOfAQuadricEquation.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\6. FindRootsOfAQuadricEquation\bin\Debug\_6.FindRootsOfAQuadricEquation.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\6. FindRootsOfAQuadricEquation\obj\Debug\_6.FindRootsOfAQuadricEquation.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\6. FindRootsOfAQuadricEquation\obj\Debug\_6.FindRootsOfAQuadricEquation.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\6. FindRootsOfAQuadricEquation\obj\Debug\6. FindRootsOfAQuadricEquation.csprojResolveAssemblyReference.cache

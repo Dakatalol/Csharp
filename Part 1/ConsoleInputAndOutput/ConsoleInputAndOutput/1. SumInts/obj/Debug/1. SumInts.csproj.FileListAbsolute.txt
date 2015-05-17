@@ -1,0 +1,6 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\1. SumInts\bin\Debug\_1.SumInts.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\1. SumInts\bin\Debug\_1.SumInts.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\1. SumInts\bin\Debug\_1.SumInts.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\1. SumInts\obj\Debug\1. SumInts.csprojResolveAssemblyReference.cache
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\1. SumInts\obj\Debug\_1.SumInts.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\1. SumInts\obj\Debug\_1.SumInts.pdb

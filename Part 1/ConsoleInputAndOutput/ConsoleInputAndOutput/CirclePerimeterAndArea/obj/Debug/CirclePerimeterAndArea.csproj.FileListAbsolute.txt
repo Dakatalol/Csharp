@@ -1,0 +1,1 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config

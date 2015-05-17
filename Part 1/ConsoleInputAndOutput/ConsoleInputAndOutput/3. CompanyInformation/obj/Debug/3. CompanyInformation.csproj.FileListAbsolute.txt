@@ -1,0 +1,6 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\3. CompanyInformation\bin\Debug\_3.CompanyInformation.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\3. CompanyInformation\obj\Debug\3. CompanyInformation.csprojResolveAssemblyReference.cache
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\3. CompanyInformation\obj\Debug\_3.CompanyInformation.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\3. CompanyInformation\obj\Debug\_3.CompanyInformation.pdb

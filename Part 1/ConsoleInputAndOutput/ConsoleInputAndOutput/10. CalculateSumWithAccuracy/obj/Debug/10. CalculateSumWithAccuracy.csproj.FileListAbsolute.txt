@@ -1,0 +1,8 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\bin\Debug\_10.CalculateSumWithAccuracy.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\bin\Debug\_10.CalculateSumWithAccuracy.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\bin\Debug\_10.CalculateSumWithAccuracy.pdb
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\obj\Debug\_10.CalculateSumWithAccuracy.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\obj\Debug\_10.CalculateSumWithAccuracy.pdb
+C:\Users\Jordan\Desktop\ConsoleInputAndOutput\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\bin\Debug\_10.CalculateSumWithAccuracy.exe.config
+C:\Users\Jordan\Desktop\ConsoleInputAndOutput\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\obj\Debug\_10.CalculateSumWithAccuracy.exe
+C:\Users\Jordan\Desktop\ConsoleInputAndOutput\ConsoleInputAndOutput\10. CalculateSumWithAccuracy\obj\Debug\_10.CalculateSumWithAccuracy.pdb

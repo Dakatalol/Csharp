@@ -1,0 +1,6 @@
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+c:\users\docadmin\documents\visual studio 2012\Projects\ConsoleInputAndOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+C:\Users\Jordan\Desktop\ConsoleInputAndOutput\ConsoleInputAndOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+C:\Users\Jordan\Desktop\ConsoleInputAndOutput\ConsoleInputAndOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Users\Jordan\Desktop\ConsoleInputAndOutput\ConsoleInputAndOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
